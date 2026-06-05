@@ -36,20 +36,39 @@ No manual intervention. End-to-end response time under 1 minute.
 ## Screenshots
 
 ### GuardDuty Findings
-![GuardDuty Findings](screenshots/01-guardduty-findings.png)
+<p align="center">
+<img src="https://i.imgur.com/TKnzSV1.png" height="85%" width="85%" alt="GuardDuty Findings"/>
+</p>
+
 
 ### EventBridge Rule
-![EventBridge Rule](screenshots/02-eventbridge-rule.png)
+<p align="center">
+<img src="https://i.imgur.com/mYIV7Dc.png" height="85%" width="85%" alt="EventBridge Rule"/>
+</p>
+
+
 
 ### CloudWatch Execution Logs
-![CloudWatch Logs](screenshots/04-cloudwatch-logs.png)
+<p align="center">
+<img src="https://i.imgur.com/GW63wFG.png" height="85%" width="85%" alt="CloudWatch Execution Logs"/>
+</p>
+
+
 > Note: The Lambda monitor shows a throttle spike caused by the GuardDuty sample findings generator firing 400+ simultaneous findings. Individual finding responses execute at 100% success rate as confirmed in CloudWatch logs above.
 
 ### IAM User — Access Keys Disabled
-![IAM Inactive Key](screenshots/05-iam-inactive-key.png)
+<p align="center">
+<img src="https://i.imgur.com/Msxwylz.png" height="85%" width="85%" alt="IAM User — Access Keys Disabled"/>
+</p>
+
+
 
 ### SNS Alert Email
-![Alert Email](screenshots/06-alert-email.png)
+<p align="center">
+<img src="https://i.imgur.com/xyR16ti.png" height="85%" width="85%" alt="SNS Alert Email"/>
+</p>
+
+
 
 ## Tech Stack
 
