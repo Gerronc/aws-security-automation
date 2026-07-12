@@ -43,7 +43,7 @@ No manual intervention. End-to-end response time under 1 minute.
 
 ### EventBridge Rule
 <p align="center">
-<img src="https://i.imgur.com/mYIV7Dc.png" height="85%" width="85%" alt="EventBridge Rule"/>
+<img src="https://i.imgur.com/xQHcDmd.png" height="85%" width="85%" alt="EventBridge Rule"/>
 </p>
 
 
